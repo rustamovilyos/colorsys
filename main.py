@@ -19,7 +19,7 @@ for i in range(360):
     fd(i)
     # rand = random.randint(1, 2)
     # rand1 = random.randint(2, 5)
-    for j in range(1, 30, 4):
+    for j in range(1, 60, 6):
         t.forward(230)
         t.left(125)
 
